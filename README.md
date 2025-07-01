@@ -1,7 +1,8 @@
 ### Hi there! This is Yurui ###
 
-- 🎓 Undergraduate student at [Vanderbilt University](https://www.vanderbilt.edu/)
-- 🌱 Studying Computer Science, Mathematics, and Data Science
-- 📫 Contact me via yurui.xu@vanderbilt.edu
+- 🎓 Bachelor of Science in Computer Science, Mathematics, and Data Science of [Vanderbilt University](https://www.vanderbilt.edu/)
+- 🎓 Graduate student in [Georgia Tech Institute](https://www.gatech.edu/)
+- 🌱 Master of Science in Cybersecurity - Information Security
+- 📫 Contact me via yxu880@gatech.edu
 - 🍄 Pronouns: She/Her/Hers
 - 💬 Ask me about how to obtain the full achievement in Hollow Knight
